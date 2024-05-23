@@ -1,6 +1,7 @@
 # Ana Laura Torres Loureiro - RM554375
 #Geronimo Augusto Nascimento Santos - RM 557170
-
+#pyqt 5
+# kivy
 def cadatro():
     nome=input('Digite seu nome: ')
     email=input('Digite seu email: ')
